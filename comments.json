@@ -1,0 +1,18 @@
+{
+  "request":{
+    "method":"GET",
+    "url":"/comments/65e91a019563b33c6c912699"
+  },
+  "response":{
+    "status":200,
+    "headers":{
+      "Content-Type":"application/json"
+    },
+    "jsonBody":[
+      {
+        "author":"João",
+        "text":"Muito bom o curso do DevDeOlho"
+      }
+    ]
+  }
+}
